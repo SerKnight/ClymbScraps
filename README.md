@@ -37,11 +37,11 @@ With 'Ladder' you can clymb your way through the amazing product deals from the 
 
 ClymbScraper
 
-TODO: Get the sale price for single items
+TODO: 
+ - Get the sale price for single items
+ - Associate a link from the DOM with each item
+ 		- Use Launchy to open Deals Page
 
 <html>
-------   --    -    -   ---  -- ---    ----
-|        ||     \  /		|  /\ /\  |   |    }
-|        ||			 ||     | | | | | |   |----
-|_____	 ||___	 ||			|	| | | | |   |____}
+ <strong>Good  Things  Come  To  Those  Who  Clymb</strong>
 </html>
