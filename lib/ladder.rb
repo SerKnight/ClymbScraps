@@ -47,7 +47,6 @@ require 'open-uri'
 		def search(keyword)
 			results = []
 			clymb_items.each do |product|
-				# split_key = keyword.split('')
 				next unless product and product.name
 				results << product if product.name.downcase.include?(keyword.downcase)
 			end
