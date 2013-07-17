@@ -52,7 +52,7 @@ require 'open-uri'
 			clymb_items.each do |product|
 				# split_key = keyword.split('')
 				next unless product and product.name
-				results << product if product.name.include?(keyword)
+				results << product if product.name.downcase.include?(keyword.downcase)
 			end
 			results.map do |search_product|
 				next unless search_product and search_product.name
