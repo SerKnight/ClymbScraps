@@ -1,0 +1,212 @@
+---
+products:
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's FootwearBoots, Sandals, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's FootwearBoots, Sandals, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Kids' FootwearBoots, Sandals, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's XS-SMShirts, Shorts, & More
+  expiration: ': 66 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's MDShirts, Shorts, & More
+  expiration: ': 66 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's LG+Shirts, Shorts, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's XS-SMTops, Pants, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's MDTops, Pants, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's LG+Tops, Pants, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: GearPacks, Multi-tools, & More
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's ZootActive Apparel
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: DiamondbackCyclocross Bikes
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's ZootActive Apparel
+  expiration: ': 42 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: IpathFootwear & Apparel
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: ElementLongboards
+  expiration: ': 42 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: New Styles AddedMen's Cycling ApparelCycling Apparel
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's Altra FootwearFootwear
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: STMDaypacks & More
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: ReefFootwear & Apparel
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's Altra FootwearFootwear
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Kayak & CampKayak & Camping Gear
+  expiration: ': 114 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's Outdoor ApparelTechnical Apparel
+  expiration: ': 114 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's NIKE AccessoriesFitness Accessories
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's NIKE AccessoriesFitness Accessories
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's KAVUTanks, Shorts, & More
+  expiration: ': 18 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's KAVUButton Ups, Shorts, & More
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's CusheFootwear
+  expiration: ': 18 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's CusheFootwear
+  expiration: ': 18 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's VivobarefootPerformance Footwear
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's DAKINEMTB Apparel
+  expiration: ': 18 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's DAKINEMTB Apparel
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's VivobarefootRunning Footwear
+  expiration: ': 18 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: WrightsockPerformance Socks
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Urban OutdoorsmanOuterwear, Tools & More
+  expiration: ': 90 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Global NomadPacks, Apparel, & More
+  expiration: ': 66 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Cycling AccessoriesHelmets, Lights & More
+  expiration: ': 42 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: The Stripe CollectionApparel, Luggage, & More
+  expiration: ': 42 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Camp CookoutPots, Utensils, & More
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's Tees & HoodiesTees, Tanks, Jackets, & More
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Hats & SunglassesAccessories
+  expiration: ': 258 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Women's Everyday BootsFootwear
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Men's Everyday BootsCasual Boots
+  expiration: ': 18 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Incan ExplorationPeru
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Summit TrekKilimanjaro
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Trekking the AnnapurnasNepal
+  expiration: ': 354 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Mountain BikingOregon
+  expiration: ': 66 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Machu Picchu TrekkingPeru
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Staff PickSurf EscapeNicaragua
+  expiration: ': 66 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Captivating Ancient WonderJordan
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: 'Adriatic SailingCroatia '
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Trekking, Biking, & BoatingMyanmar
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Trekking, Cycling, & KayakingThailand
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: World Cycling ChampionshipsTuscany
+  expiration: ': 306 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Trekking & CampingPatagonia
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Darwin's FootprintsGalapagos
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Wildlife ExplorationEast Africa
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Serengeti AdventureTanzania
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Himalayan ExplorationNepal
+  expiration: ': 354 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Beach. Volcanoes. Forests.Costa Rica
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Mayan EncounterMexico, Guatemala, & Belize
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Coastal CyclingVietnam
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Whitewater RaftingGrand Canyon
+  expiration: ': 90 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Culinary AdventureIndia
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Le Bon VoyageFrance
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Tibetan TrekkingChina
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: 'Wine Country CyclingSanta Ynez Valley, California '
+  expiration: ': 162 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Jungle Ruins ExplorationBelize & Guatemala
+  expiration: ': 354 hrs 48 mins'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Kayaking with the GodsGreek Isles
+  expiration: ': 114 hrs 48 min'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: Trekking to Base CampMt. Everest, Nepal
+  expiration: ': 234 hrs 48 m'
+- !ruby/struct:Ladder::ClymbScraper::ClymbProduct
+  name: 
+  expiration: 
