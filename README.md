@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ladder
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+ClymbScraper
+============
+
+A Command-Line-Interface ruby gem for getting a list of all current TheClymb Sales
+>>>>>>> d262ffff5e601c719a87a80cee424568c5cb0e3e
