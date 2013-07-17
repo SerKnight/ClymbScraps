@@ -13,7 +13,6 @@ require 'open-uri'
 
 		ClymbProduct = Struct.new :name, :expiration
 
-
 		def initialize
 			@doc = Nokogiri::HTML(open(URL))
 		end
@@ -26,11 +25,9 @@ require 'open-uri'
 						 .gsub("Get $35 for Every Friend You Invite", "")
 		end
 		
-
 		def scrape
 			@scrape ||= doc.at_css("#home_grid ul").text.split(";")
 		end
-
 
 		def clymb_items 
 			list = scrape.map do |product| 
@@ -40,7 +37,7 @@ require 'open-uri'
 			end
 		end
 
-		def clymb
+		def product_list
 			clymb_items.map do |product|
 				next unless product and product.name
 				"#{product.name.to_s.ljust(60, ".")} #{product.expiration}" 
@@ -60,19 +57,10 @@ require 'open-uri'
 			end
 		end
 	end
-			# list = ClymbScraper.new.clymb
-			# search_results = []
-			# list.each do |product|
-			# 	product.each do |product|
-			# 		search_results << product if list.include?(product)
-			# 	end
-			# end	
-
 
 	clymb_store = YAML::Store.new "product.store"
 
 	clymb_store.transaction do
 		clymb_store["products"] = ClymbScraper.new.clymb_items
 	end
-
 end

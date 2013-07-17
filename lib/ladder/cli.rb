@@ -4,15 +4,9 @@ require 'ladder'
 module Ladder
 	class CLI < Thor
 		
-		# no_tasks do
-		# 	def banner
-		# 		%{ THANK YOU FOR USING CLYMB }
-		# 	end
-		# end
-
 		desc "clymb", "A current list of TheClymb's homepage product deals"
 		def products
-			say ClymbScraper.new.clymb.join("\n")
+			say ClymbScraper.new.product_list.join("\n")
 		end
 
 		desc "search", "A refined search for current deals via a keyword"

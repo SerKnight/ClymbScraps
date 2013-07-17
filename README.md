@@ -1,36 +1,43 @@
-<<<<<<< HEAD
 # Ladder
 
-TODO: Write a gem description
+Are you a devout TheClymb Customer. Are you also a 1337 Hacker?
+Welcome to 'ladder' a command-line-scraper-gem that easily outputs the current deals TheClymb offers, and their dreaded expiration date. 
 
 ## Installation
 
-Add this line to your application's Gemfile:
 
-    gem 'ladder'
+Install it:
+
+    $ gem install ladder
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install ladder
-
 ## Usage
 
-TODO: Write usage instructions here
+There are only 2 simple methods used by 'ladder'
 
-## Contributing
+	1) $ clymb products
+-This will output a list of every current TheClymb deal
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+	2) $ clymb search 'keyword'
+		- ex $ clymb search sunglasses
+		- ex $ clymb seach Africa
+		
+-This will output a list of every current TheClymb deal including that keyword
+
+Sometimes Looking through the UI/UX is a lot of work (Although it is very beautiful)
+With 'Ladder' you can clymb your way through the amazing product deals from the comfort of your terminal :)
+
 =======
-ClymbScraper
-============
 
-A Command-Line-Interface ruby gem for getting a list of all current TheClymb Sales
->>>>>>> d262ffff5e601c719a87a80cee424568c5cb0e3e
+ClymbScraper
+
+
+
+------   --    -    -   ---  -- ---    ----
+|        ||     \  /		|  /\ /\  |   |    }
+|        ||			 ||     | | | | | |   |----
+|_____	 ||___	 ||			|	| | | | |   |____}
+
