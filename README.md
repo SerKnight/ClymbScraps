@@ -8,7 +8,7 @@ Welcome to 'ladder' a command-line-scraper-gem that outputs the current deals @T
 ## Installation
 
 
-Install it:
+Install ladder:
 
     $ gem install ladder
 
