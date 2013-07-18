@@ -30,17 +30,15 @@ This will output a list of every current TheClymb deal
 
 This will find every current TheClymb deal including that keyword
 
-Sometimes Looking through a websites UserInterface is a lot of work (Although theirs is very beautiful)</br>
-With 'Ladder' you can clymb your way through the amazing product deals from the comfort of your terminal :)
+Sometimes browsing through a website is a lot of work (yes, even those beautifully designed like theclymb.com). With 'Ladder', you can clymb your way through the amazing product deals from the comfort of your terminal :)</br>
 
 =======
 
 ClymbScraper
 
 TODO: 
- - Get the sale price for single items
- - Associate a link from the DOM with each item
- 		- Use Launchy to open Deals Page
+ - Associate a link from the DOM with each sale item
+ 		- Use Launchy to open Deals Page via command line
 
 <html>
  <strong>Good  Things  Come  To  Those  Who  Clymb</strong>

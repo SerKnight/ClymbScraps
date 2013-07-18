@@ -9,6 +9,3 @@ $:.unshift(File.join(File.dirname(File.expand_path(path)), '..', 'lib'))
 require 'ladder/cli'
 
 Ladder::CLI.start
-
-# ladder = Ladder::ClymbScraper.new
-# ladder.clymb
