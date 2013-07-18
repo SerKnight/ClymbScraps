@@ -26,7 +26,7 @@ This will output a list of every current TheClymb deal
 
   2) $ clymb search 'keyword'
     - ex. $ clymb search sunglasses
-    - ex. $ clymb seach Africa
+    - ex. $ clymb search Africa
 
 This will find every current TheClymb deal including that keyword
 
