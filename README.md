@@ -20,13 +20,13 @@ And then execute:
 
 There are only 2 methods used by 'ladder'
 
-  1) $ clymb products
+		1) $ clymb products
 
 This will output a list of every current TheClymb deal
 
   2) $ clymb search 'keyword'
-    - ex. $ clymb search sunglasses
-    - ex. $ clymb search Africa
+		- ex. $ clymb search sunglasses
+		- ex. $ clymb search Africa
 
 This will find every current TheClymb deal including that keyword
 
